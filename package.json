@@ -1,0 +1,28 @@
+{
+  "name": "wordpress-indieauth-remote",
+  "description": "IndieAuth Remote for WordPress!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indieweb/wordpress-indieauth-remote.git"
+  },
+  "author": {
+    "name": "David Shanske",
+    "email": "david@shanske.com",
+    "web": "https://david.shanske.com"
+  },
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-wp-i18n": "^1.0.3",
+    "grunt-wp-readme-to-markdown": "^2.1.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indieweb/wordpress-indieweb-remote/issues"
+  },
+  "homepage": "https://github.com/indieweb/wordpress-indieauth-remote",
+  "keywords": [
+    "indieweb",
+    "wordpress",
+    "indieauth"
+  ]
+}
